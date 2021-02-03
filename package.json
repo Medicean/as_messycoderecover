@@ -3,7 +3,7 @@
   "name_en": "MessyCodeRecover",
   "main": "index.js",
   "icon": "text-width",
-  "version": "0.1",
+  "version": "0.2",
   "description": "尝试恢复乱码",
   "description_en": "Trying to recover the garbled text",
   "author": {
@@ -14,9 +14,12 @@
   "category_en": "Support",
   "multiple": false,
   "scripts": [
+    "*",
     "php",
+    "php4",
     "asp",
     "aspx",
+    "jsp",
     "custom"
   ]
 }
